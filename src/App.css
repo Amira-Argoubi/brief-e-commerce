@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.card {
+  width: 35rem;
+  background-color: rgb(155, 192, 192);
+  margin: 20px;
+  margin-top: 50px;
+}
+.tof {
+  width: 18rem;
+  height: 200px;
+  border-radius: 7%;
+  margin-bottom: 20px;
+}
